@@ -10,7 +10,7 @@
     "preferences": [
       {
         "id": "demo_kw",
-        "type": "keyword",
+        "type": "select",
         "name": "Demo",
         "description": "Demo extension",
         "default_value": "dm"
